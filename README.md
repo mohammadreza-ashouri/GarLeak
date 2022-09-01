@@ -1,4 +1,4 @@
-### Garleak: A Security Tool for Detecting Credentials in Source Code Repositories 
+### Garleak: A Security Tool for Detecting Credentials in Source Code Repositories
 
 
 
