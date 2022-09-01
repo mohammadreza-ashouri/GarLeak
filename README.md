@@ -47,4 +47,4 @@ garleak --no-fancy-color (-f)  # turn off colors
 
 #### Author : Mohammadreza Ashouri
 #### Granola Team -  2022
-#### mo@granola.team
+
